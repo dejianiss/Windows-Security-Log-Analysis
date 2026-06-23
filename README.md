@@ -1,5 +1,3 @@
-# Windows-Security-Log-Analysis
-
 # 🛡️ Windows Security Monitoring Project
 
 <p align="center">
@@ -51,6 +49,7 @@ The goal is to simulate real-world Security Operations Center (SOC) log monitori
 ---
 
 ## 🏗️ Architecture Flow
+
 
 
 ## Steps
