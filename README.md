@@ -62,22 +62,29 @@ Flask Web Dashboard
 
 ## Steps
 
-StepsRef 1: Windows Security Event Viewer - Audit Failure
-This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM.Event Viewer - Audit Failure Event 4625
-
 <p><strong>Ref 1: Windows Security Event Viewer - Audit Failure</strong><br>
-This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM.</p>
+This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the enterprise lab infrastructure where an account failed to log on at 1:38 PM.</p>
 <img src="Screenshot 2026-06-23 at 15.50.24.png" width="700" alt="Event Viewer - Audit Failure Event 4625">
 <p>Event Viewer - Audit Failure Event 4625</p>
 
-
-**Ref 2: Windows Security Event Viewer - Audit Failure**
-This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM. 
-
-<img src="path/to/your/audit_failure_screenshot.png" width="700" alt="Event Viewer - Audit Failure Event 4625">
-
-**Ref 3: Windows Security Event Viewer - Audit Success**
-This screenshot captures a Windows Event Properties dialog for Event ID 4624 within the same lab environment. It highlights an "Audit Success" log, confirming that an account successfully logged on at 1:49 PM.
-
+<p><strong>Ref 2: Windows Security Event Viewer - Audit Success</strong><br>
+This screenshot captures a Windows Event Properties dialog for Event ID 4624 within the same lab environment. It highlights an "Audit Success" log, confirming that an account successfully logged on at 1:49 PM.</p>
 <img src="path/to/your/audit_success_screenshot.png" width="700" alt="Event Viewer - Audit Success Event 4624">
+<p>Event Viewer - Audit Success Event 4624</p>
+
+<p><strong>Ref 3: Windows File Explorer - Generated Scripts and Reports</strong><br>
+This screenshot displays the This PC > Documents directory containing the project outputs. It shows the Python automation scripts (success.py, Failure.py) used to parse the logs, along with the exported spreadsheet and HTML report files (Audit_success and Audit_Failure) generated from the event data.</p>
+<img src="path/to/your/file_explorer_screenshot.png" width="700" alt="Windows File Explorer - Scripts and Reports">
+<p>Windows File Explorer - Scripts and Reports</p>
+
+<p><strong>Ref 4: Audit Failure Security HTML Report</strong><br>
+This screenshot displays the corresponding automated report for failed logons (Audit_Failure.html) open in a web browser. It neatly organizes the Event ID 4625 data parsed by the script, showcasing the Timestamp, Source, and the extensive raw failure description details extracted from the system logs.</p>
+<img src="path/to/your/html_failure_report_screenshot.png" width="700" alt="Audit Failure HTML Report View">
+<p>Audit Failure HTML Report View</p>
+
+<p><strong>Ref 5: Audit Success Security HTML Report</strong><br>
+This screenshot demonstrates the final output of the automation script (Audit_success.html) opened in a web browser. The parsed success data is structured into a clean web table displaying critical event details such as Keywords, Timestamp, Source, Event ID (4624), Task Category, and the detailed log description text.</p>
+<img src="path/to/your/html_success_report_screenshot.png" width="700" alt="Audit Success HTML Report View">
+<p>Audit Success HTML Report View</p>
+t Viewer - Audit Success Event 4624">
 
