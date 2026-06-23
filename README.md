@@ -65,7 +65,7 @@ Flask Web Dashboard
 <p><strong>Ref 1: Windows Security Event Viewer - Audit Failure</strong><br>
 This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the enterprise lab infrastructure where an account failed to log on at 1:38 PM.</p>
 <img src="Screenshot 2026-06-23 at 15.50.24.png" width="700" alt="Event Viewer - Audit Failure Event 4625">
-<p>Event Viewer - Audit Failure Event 4625</p>
+<p>Event Viewer - Audit Failure Event 4625</p><br>
 
 <p><strong>Ref 2: Windows Security Event Viewer - Audit Success</strong><br>
 This screenshot captures a Windows Event Properties dialog for Event ID 4624 within the same lab environment. It highlights an "Audit Success" log, confirming that an account successfully logged on at 1:49 PM.</p>
