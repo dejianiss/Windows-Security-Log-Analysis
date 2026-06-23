@@ -1,25 +1,57 @@
 # Windows-Security-Log-Analysis
 
-## Objective
-[Brief Objective - Remove this afterwards]
+# 🛡️ Windows Security Monitoring Project
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+<p align="center">
+  <img src="https://img.shields.io/badge/-SOC%20Project-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Windows%20Security%20Monitoring-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SIEM%20Simulation-10B981?style=for-the-badge" />
+</p>
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+---
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+## 👤 Project Owner
+**Ayodeji Gabriel Anigboro**
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+---
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+## 🎯 Objective
+The Windows Security Monitoring Project aimed to build a SOC-style monitoring environment for tracking authentication activity on a Windows system. The project focuses on collecting, analyzing, and visualizing login events using Windows Security Logs, PowerShell automation, and a Python Flask dashboard.
+
+The goal is to simulate real-world Security Operations Center (SOC) log monitoring and improve detection of successful and failed login attempts using Event IDs 4624 and 4625.
+
+---
+
+## 🧠 Skills Learned
+- Windows Security Event Log analysis (Event ID 4624 & 4625)
+- SOC Tier 1 log monitoring workflows
+- Windows audit policy configuration (secpol.msc)
+- PowerShell automation using `Get-WinEvent`
+- CSV log extraction and processing
+- SIEM-style dashboard development using Python Flask
+- Security event correlation and user activity tracking
+- Basic detection and investigation techniques
+
+---
+
+## 🛠️ Tools Used
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/-Windows_Event_Viewer-1F6FEB?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows_Security_Logs-0EA5E9?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-2563EB?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Audit%20Policy-4B5563?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSV%20Logs-F59E0B?style=for-the-badge&logoColor=white" />
+
+</p>
+
+---
+
+## 🏗️ Architecture Flow
+
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
