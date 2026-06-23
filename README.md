@@ -50,7 +50,15 @@ The goal is to simulate real-world Security Operations Center (SOC) log monitori
 
 ## 🏗️ Architecture Flow
 
-
+User Login
+↓
+Windows Security Logs
+↓
+Event Viewer / PowerShell (Get-WinEvent)
+↓
+CSV Log File
+↓
+Flask Web Dashboard
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
