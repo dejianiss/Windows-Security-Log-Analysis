@@ -62,7 +62,8 @@ Flask Web Dashboard
 
 ## Steps
 
-StepsRef 1: Windows Security Event Viewer - Audit FailureThis screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM.Event Viewer - Audit Failure Event 4625
+StepsRef 1: Windows Security Event Viewer - Audit Failure
+This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM.Event Viewer - Audit Failure Event 4625
 
 <p><strong>Ref 1: Windows Security Event Viewer - Audit Failure</strong><br>
 This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM.</p>
