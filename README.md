@@ -9,7 +9,7 @@
 ---
 
 ## 👤 Project Owner
-**Ayodeji Gabriel Anigboro**
+**Gabriel Anigboro**
 
 ---
 
