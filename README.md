@@ -61,10 +61,19 @@ CSV Log File
 Flask Web Dashboard
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+**Ref 1: Windows File Explorer - Generated Scripts and Reports**
+This screenshot displays the `This PC > Documents` directory containing the project outputs. It shows the Python automation scripts (`success.py`, `Failure.py`) used to parse the logs, along with the exported spreadsheet and HTML report files (`Audit_success` and `Audit_Failure`) generated from the event data.
 
-Example below.
+<img src="path/to/your/file_explorer_screenshot.png" width="700" alt="Windows File Explorer - Scripts and Reports">
 
-*Ref 1: Network Diagram*
+**Ref 2: Windows Security Event Viewer - Audit Failure**
+This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM. 
+
+<img src="path/to/your/audit_failure_screenshot.png" width="700" alt="Event Viewer - Audit Failure Event 4625">
+
+**Ref 3: Windows Security Event Viewer - Audit Success**
+This screenshot captures a Windows Event Properties dialog for Event ID 4624 within the same lab environment. It highlights an "Audit Success" log, confirming that an account successfully logged on at 1:49 PM.
+
+<img src="path/to/your/audit_success_screenshot.png" width="700" alt="Event Viewer - Audit Success Event 4624">
+
