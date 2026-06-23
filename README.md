@@ -62,10 +62,13 @@ Flask Web Dashboard
 
 ## Steps
 
-**Ref 1: Windows File Explorer - Generated Scripts and Reports**
-This screenshot displays the `This PC > Documents` directory containing the project outputs. It shows the Python automation scripts (`success.py`, `Failure.py`) used to parse the logs, along with the exported spreadsheet and HTML report files (`Audit_success` and `Audit_Failure`) generated from the event data.
+StepsRef 1: Windows Security Event Viewer - Audit FailureThis screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM.Event Viewer - Audit Failure Event 4625
 
-<img src="images/github_screenshot.png" width="700" alt="Windows File Explorer - Scripts and Reports">
+<p><strong>Ref 1: Windows Security Event Viewer - Audit Failure</strong><br>
+This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM.</p>
+<img src="Screenshot 2026-06-23 at 15.50.24.png" width="700" alt="Event Viewer - Audit Failure Event 4625">
+<p>Event Viewer - Audit Failure Event 4625</p>
+
 
 **Ref 2: Windows Security Event Viewer - Audit Failure**
 This screenshot captures a Windows Event Properties dialog for Event ID 4625. It shows an "Audit Failure" log within the Simplilearn enterprise lab infrastructure where an account failed to log on at 1:38 PM. 
