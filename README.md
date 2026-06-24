@@ -84,7 +84,7 @@ This screenshot displays the corresponding automated report for failed logons (A
 
 <p><strong>Ref 5: Audit Success Security HTML Report</strong><br>
 This screenshot demonstrates the final output of the automation script (Audit_success.html) opened in a web browser. The parsed success data is structured into a clean web table displaying critical event details such as Keywords, Timestamp, Source, Event ID (4624), Task Category, and the detailed log description text.</p>
-<img src="Screenshot 2026-06-23 at 18.48.38.png" width="700" alt="Audit Success HTML Report View">
+<img src="Screenshot 2026-06-23 at 18.49.28.png" width="700" alt="Audit Success HTML Report View">
 <p>Audit Success HTML Report View</p>
 
 
