@@ -86,24 +86,3 @@ This screenshot displays the corresponding automated report for failed logons (A
 This screenshot demonstrates the final output of the automation script (Audit_success.html) opened in a web browser. The parsed success data is structured into a clean web table displaying critical event details such as Keywords, Timestamp, Source, Event ID (4624), Task Category, and the detailed log description text.</p>
 <img src="Screenshot 2026-06-23 at 18.49.28.png" width="700" alt="Audit Success HTML Report View">
 <p>Audit Success HTML Report View</p>
-
-## Skills Demonstrated
-
-- Security Monitoring & Log Analysis
-- Windows Security Auditing
-- Event Log Analysis
-- PowerShell Automation
-- Python Development
-- Flask Dashboard Development
-- Authentication Monitoring
-- SOC Operations Fundamentals
-
-  ## Technologies Used
-
-- Windows Event Viewer
-- Windows Security Logs
-- PowerShell
-- Python
-- Flask
-- CSV
-- Windows Audit Policy
