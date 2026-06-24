@@ -87,4 +87,23 @@ This screenshot demonstrates the final output of the automation script (Audit_su
 <img src="Screenshot 2026-06-23 at 18.49.28.png" width="700" alt="Audit Success HTML Report View">
 <p>Audit Success HTML Report View</p>
 
+## Skills Demonstrated
 
+- Security Monitoring & Log Analysis
+- Windows Security Auditing
+- Event Log Analysis
+- PowerShell Automation
+- Python Development
+- Flask Dashboard Development
+- Authentication Monitoring
+- SOC Operations Fundamentals
+
+  ## Technologies Used
+
+- Windows Event Viewer
+- Windows Security Logs
+- PowerShell
+- Python
+- Flask
+- CSV
+- Windows Audit Policy
